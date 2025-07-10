@@ -5,7 +5,7 @@
   "identities": {
     "BTC25": {
       "token": {
-        "category": "TO_BE_FILLED_BY_USER_AFTER_CREATION",
+        "category": "c31e26df02f74c340bc01a95d52a76bfc127a75be37f555638463b9e0ad55fda",
         "symbol": "BTC25",
         "decimals": 8,
         "name": "BTC25",
