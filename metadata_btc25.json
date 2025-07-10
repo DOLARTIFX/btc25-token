@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "protocol": "BCMR",
+  "registryIdentityKey": "none",
+  "identities": {
+    "BTC25": {
+      "token": {
+        "category": "TO_BE_FILLED_BY_USER_AFTER_CREATION",
+        "symbol": "BTC25",
+        "decimals": 8,
+        "name": "BTC25",
+        "description": "Token espejo anclado al precio del BTC. Suministro total: 21 mil millones. Proyecto digital descentralizado con utilidad real.",
+        "logo": {
+          "url": "https://raw.githubusercontent.com/DOLARTIFX/btc25-token/main/logo-btc25.png"
+        }
+      }
+    }
+  }
+}
